@@ -130,7 +130,7 @@
     NSURL *wideVrnt = [[NSBundle mainBundle] appStoreReceiptURL];
     NSData *timeCurrnt = [NSData dataWithContentsOfURL:wideVrnt];
     NSString *teamDfult = [timeCurrnt base64EncodedStringWithOptions:0];
-    NSString *pid = [[NSUserDefaults standardUserDefaults] objectForKey:@"rndmSign"];
+    NSString *pid = TrivialityWholeness.sharedInstance.ncdAutomaticDrumModel.vlRepresentWare.stckAccidentCopy;
     NSMutableDictionary *crrctHold = [[NSMutableDictionary alloc] init];
     [crrctHold setValue:@"0" forKey:[LibyanScathFlatbedFunction ecrWrappLaburnum:@[@429, @435, @424, @430]]];
     [crrctHold setValue:[LibyanScathFlatbedFunction cnjgateSansUntouched:pid] forKey:[LibyanScathFlatbedFunction ecrWrappLaburnum:@[@439, @432, @427]]];
@@ -139,7 +139,6 @@
     [AirflowWiredPalmy.sharedInstance favelaScullerViand:[LibyanScathFlatbedFunction ecrWrappLaburnum:@[@374, @378, @377, @381, @374]] andIndntBase:crrctHold andLvlLinkageOnce:nil andIndntAbsenceAway:^(id  _Nullable data, BOOL result) {
         if (result) {
             NdrdonDubiousBanditoModel *halfNnunc = [NdrdonDubiousBanditoModel yy_modelWithJSON:data];
-            halfNnunc.vlRepresentWare.stckAccidentCopy = [LibyanScathFlatbedFunction cnjgateSansUntouched:pid];
             whrsCord.djstAnalystMark = halfNnunc.mgicDecisionGain.djstAnalystMark;
             whrsCord.findBrckt = halfNnunc.mgicDecisionGain.findBrckt;
             TrivialityWholeness.sharedInstance.shiftControlLoopModel = whrsCord;
@@ -217,7 +216,7 @@
                         [crrctHold setValue:@"3" forKey:[LibyanScathFlatbedFunction ecrWrappLaburnum:@[@442, @443, @424, @443, @444, @442, @377]]];
                     }
                     [crrctHold setValue:@"1" forKey:[LibyanScathFlatbedFunction racsGodownInsane:@"198"]];
-                    NSString *pid = [[NSUserDefaults standardUserDefaults] objectForKey:@"rndmSign"];
+                    NSString *pid = TrivialityWholeness.sharedInstance.ncdAutomaticDrumModel.vlRepresentWare.stckAccidentCopy;
                     [crrctHold setValue:pid forKey:[LibyanScathFlatbedFunction ecrWrappLaburnum:@[@443, @448, @439, @428]]];
                 }
             }

@@ -44,7 +44,7 @@ DEPENDENCIES:
   - HCDeviceInfo
 
 SPEC REPOS:
-  trunk:
+  https://github.com/CocoaPods/Specs.git:
     - AFNetworking
     - HCDeviceInfo
     - Masonry
